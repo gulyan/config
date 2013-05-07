@@ -1,6 +1,6 @@
 Configuration files for vim
 
-In order to get the vimrc file use:
+In order to get the files use:
 
-wget -O - raw.github.com/gulyan/config/master/vimrc 2>/dev/null
+wget -O - raw.github.com/gulyan/config/master/install.sh | bash
 
