@@ -2,5 +2,7 @@ Configuration files for vim
 
 In order to get the files use:
 
-wget -O - raw.github.com/gulyan/config/master/install.sh | bash
+wget --no-check-certificate -O - raw.github.com/gulyan/config/master/install.sh | bash
+
+The option --no-check-certificate is required for cygwin.
 
